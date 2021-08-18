@@ -1,0 +1,65 @@
+/*CSS - ATIVIDADE 01: PRÁTICA 01*/
+#p01{
+    font-size: 50px;
+    font-family: Arial;
+}
+
+#p02{
+    font-size: 40px;
+    font-family: Verdana;
+}
+
+#p03{
+    font-size: 30px;
+    font-family: monospace;
+}
+
+#p04{
+    font-size: 20px;
+    font-family: Helvetica;
+}
+
+#p05{
+    font-size: 10px;
+    font-family: serif;
+}
+
+/*CSS - ATIVIDADE 01: PRÁTICA 02*/
+
+img{
+    width: 100px;
+}
+
+#bill{
+    font-size: 35px;
+    font-family: monospace;
+}
+
+#steve{
+    font-size: 25px;
+    font-family: Arial;
+}
+
+#linus{
+    font-size: 15px;
+    font-family: serif;
+}
+
+.titulo{
+    font-style: italic;
+    font-weight: bold;
+}
+
+/*CSS - ATIVIDADE 01: PRÁTICA 03*/
+
+img[alt=filme]{
+    width: 40em;
+}
+
+#titulo03{
+    font-style: oblique;
+}
+
+.texto{
+    font-size: 40px ;
+}
