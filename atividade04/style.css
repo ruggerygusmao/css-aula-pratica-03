@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+#logo{
+    color: beige;
+}
+
+ul,li, a {
+    text-decoration: none;
+    color: beige;
+    font-weight: bold;
+}
+
+a:hover{
+    color: #5d5d5b;
+}
+
+header{
+    background-color: #b3949b;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    height: 48px;
+}
+
+.nav li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+#planta{
+    background-color: #b3949b;
+    width: 70px;
+    color: beige;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#titulo{
+    font-size: 33px
+}
+
+#texto{
+    margin-left: 365px;
+}
