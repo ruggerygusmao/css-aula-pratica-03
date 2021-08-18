@@ -1,0 +1,36 @@
+body{
+    background-color: #1c1e21;
+    color: #FFF;
+}
+
+#titulo{
+    font-size: 30px;
+    font-family: monospace;
+    text-transform: uppercase;
+    color: #DA7C12;
+}
+
+img{
+    width: 500px;
+    border-radius: 10px;
+}
+
+section{
+    display: flex;
+    font-style: italic;
+}
+
+#preparo{
+    width: 40%;
+}
+
+ul, ol  {
+    line-height: 30px;
+}
+
+#comentarios{
+    background-color: #3a3b3c;
+    border-radius: 5px;
+    padding: 10px 10px 10px;
+    width: 50%;
+}
